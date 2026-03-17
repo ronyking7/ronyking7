@@ -40,7 +40,7 @@ These three projects form a connected hybrid environment simulating a 150-person
 
 Designed a complete hybrid identity architecture: AD Connect sync with custom OU filtering, 5-policy Conditional Access framework (MFA, device compliance, location-based, admin protection), PIM with approval workflows and quarterly access reviews, and FIDO2 passwordless deployment.
 
-🔗 [View repository »](https://github.com/ronyking7/hybrid-identity-zerotrust-lab)
+🔗 [View repository »]([https://github.com/ronyking7/hybrid-identity-zerotrust-lab])
 
 ---
 
@@ -49,7 +49,7 @@ Designed a complete hybrid identity architecture: AD Connect sync with custom OU
 
 Enrolled Windows 11 VMs via Intune with compliance policies and config profiles. Integrated Defender for Endpoint with Intune so non-compliant devices are automatically blocked from M365 resources. Built KQL detection rules in Sentinel, simulated a brute-force attack, and ran a full incident response workflow.
 
-🔗 [View repository »](https://github.com/ronyking7/endpoint-security-intune-sentinel-lab)
+🔗 [View repository »](https://github.com/ronyking7/Endpoint-Security-Intune-Sentinel)
 
 ---
 
@@ -58,7 +58,7 @@ Enrolled Windows 11 VMs via Intune with compliance policies and config profiles.
 
 Built a self-service IT portal that automates the full employee lifecycle: onboarding (AD account, M365 licence, Intune enrolment, mailbox setup, SharePoint access) in under 5 minutes via a Power Apps form backed by Graph API. Includes full offboarding automation — account disable, licence revocation, shared mailbox conversion, access removal.
 
-🔗 [View repository »](https://github.com/ronyking7/automated-itsm-portal-m365)
+🔗 [View repository »](https://github.com/ronyking7/Automated-ITSM-Portal-M365)
 
 ---
 
