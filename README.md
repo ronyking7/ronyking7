@@ -40,7 +40,7 @@ These three projects form a connected hybrid environment simulating a 150-person
 
 Designed a complete hybrid identity architecture: AD Connect sync with custom OU filtering, 5-policy Conditional Access framework (MFA, device compliance, location-based, admin protection), PIM with approval workflows and quarterly access reviews, and FIDO2 passwordless deployment.
 
-🔗 [View repository »]([https://github.com/ronyking7/hybrid-identity-zerotrust-lab])
+🔗 [View repository »](https://github.com/ronyking7/Zero-Trust-Hybrid-Identity)
 
 ---
 
